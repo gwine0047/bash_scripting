@@ -1,0 +1,2 @@
+Writing from the cl into a file using echo
+appending a text
